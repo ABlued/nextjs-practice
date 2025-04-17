@@ -12,3 +12,4 @@ export default function MealsGrid({ meals }) {
     </ul>
   );
 }
+2;
